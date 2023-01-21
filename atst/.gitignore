@@ -1,0 +1,25 @@
+/node_modules
+/dist
+/.vs
+/.vscode
+/nginx.conf
+/dockerfile
+/.idea
+/InUp/target
+
+# Compiled class file
+*.class
+
+# Folders
+/target
+target/*
+.vscode/*
+src/resource/*
+
+
+.idea/
+.settings/
+.vscode/
+.target/
+target/
+InterfaceNetUP.2.iml
